@@ -1,3 +1,18 @@
 __pycache__/
 *.pyc
 ~$*
+
+# --- Contenido del alumno: se versionan las carpetas, no lo que hay adentro ---
+
+# materias/: solo el esqueleto _plantilla-materia/, no el material de cada materia
+materias/*
+!materias/.gitkeep
+!materias/_plantilla-materia/
+
+# progreso/: sin historiales ni notas
+progreso/*
+!progreso/.gitkeep
+
+# sesiones/: sin enunciados, claves, respuestas ni correcciones
+sesiones/*
+!sesiones/.gitkeep
