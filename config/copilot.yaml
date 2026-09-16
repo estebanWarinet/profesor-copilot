@@ -1,0 +1,12 @@
+materia_actual: teoria-tecnica-impositiva-1
+docente_activo: del-proceso
+docente_por_materia: {}
+escala_notas:
+  minimo: 0
+  maximo: 10
+  aprobacion: 6
+alumno:
+  nombre: ''
+preferencias:
+  preguntas_por_tanda: 5
+  mostrar_tiempo_sugerido: true
